@@ -8,6 +8,10 @@ KrypTx is a modern Android application built to display cryptocurrency data.
 - **Coin Detail**: View detailed information about a specific cryptocurrency, including an interactive chart of its historical price data.
 - **Adaptive UI**: Uses Jetpack Compose Material 3 Adaptive layout to support both phones and larger screens seamlessly.
 
+## 📸 Screenshots
+![screenshot_8](https://github.com/user-attachments/assets/cb70ae70-e89a-4bd8-8a0a-1f23e3d6c5c2)
+
+
 ## Tech Stack
 
 This project uses modern Android development practices and libraries:
