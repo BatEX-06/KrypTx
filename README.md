@@ -9,8 +9,39 @@ KrypTx is a modern Android application built to display cryptocurrency data.
 - **Adaptive UI**: Uses Jetpack Compose Material 3 Adaptive layout to support both phones and larger screens seamlessly.
 
 ## 📸 Screenshots
-![screenshot_8](https://github.com/user-attachments/assets/cb70ae70-e89a-4bd8-8a0a-1f23e3d6c5c2)
 
+### App Previews (Portrait)
+*A perfect view for phone users. App supports Dynamic Color theme.*
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d7b627df-d27c-4951-8967-b18173febfec" width="220" alt="screenshot_1"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/4ada9ad5-1513-41d7-bf07-a45393787c64" width="220" alt="screenshot_2"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/b61bceef-7c98-402c-9789-4ab441f6f507" width="220" alt="screenshot_3"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/f4efe83e-01fa-407c-8a8d-6a727d8e92df" width="220" alt="screenshot_4"/>
+</div>
+
+<br/>
+
+### App Previews (Landscape - Tablet)
+*Showcasing the Adaptive UI layout for larger screens.*
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0ea5482f-a308-4ade-9ad7-ea63e5f46b3c" width="400" alt="screenshot_5"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/d5e24c47-161a-4c5c-95c3-5813a9305708" width="400" alt="screenshot_6"/>
+</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/195d002f-6afb-4715-a74f-b8c33c5379a0" width="400" alt="screenshot_7"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/9e26f8e4-4beb-42e4-b930-02a73250eb16" width="400" alt="screenshot_8"/>
+</div>
+
+### API Key Setup Instructions
+*Here you can find your API key.*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/13e82877-4682-4da7-bc33-2d2e3d19b09a" width="600" alt="API key screenshot"/>
+</p>
 
 ## Tech Stack
 
