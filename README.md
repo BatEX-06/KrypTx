@@ -1,5 +1,9 @@
 # KrypTx
 
+> **⚠️ Note:** Try out the app before the free API credits expire! If the market data isn't loading, feel free to clone this repository, add your own API key, and run it locally on your device.
+
+[![Download APK](https://img.shields.io/badge/Download-APK-green.svg?logo=android&style=for-the-badge)](https://github.com/BatEX-06/KrypTx/releases/download/v1.0.0/KrypTx.apk)
+
 KrypTx is a modern Android application built to display cryptocurrency data. 
 
 ## Features
