@@ -73,7 +73,8 @@ The project follows Clean Architecture principles, separated into:
 4. Create a free account on CoinCap to generate an API key: [https://pro.coincap.io/signin](https://pro.coincap.io/signin)
 5. Open the `local.properties` file in your project's root directory and add your API key like this:
    ```properties
-   API_KEY="Your api key"
+   ## 
+   API_KEY=582845e05r8t57f885149a4184d5
 6. To experience the app with smooth, production-like performance, open the Build Variants tool window in Android Studio and change the active variant for the app module to nonMinifiedRelease.
 7. Run the app configuration on an emulator or a physical device.
 
