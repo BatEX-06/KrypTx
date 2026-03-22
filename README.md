@@ -17,13 +17,13 @@ KrypTx is a modern Android application built to display cryptocurrency data.
 ### App Previews (Portrait)
 *A perfect view for phone users. App supports Dynamic Color theme.*
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d7b627df-d27c-4951-8967-b18173febfec" width="220" alt="screenshot_1"/>
+  <img src="https://github.com/user-attachments/assets/227e9fe4-0a97-4202-b36f-52fe3a01f5f2" width="220" alt="screenshot_1"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/4ada9ad5-1513-41d7-bf07-a45393787c64" width="220" alt="screenshot_2"/>
+  <img src="https://github.com/user-attachments/assets/bdeaf06e-a59c-4317-b174-7bd19db0225a" width="220" alt="screenshot_2"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/b61bceef-7c98-402c-9789-4ab441f6f507" width="220" alt="screenshot_3"/>
+  <img src="https://github.com/user-attachments/assets/11d5aaa6-b18c-4bd1-8c91-0643c955f336" width="220" alt="screenshot_3"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/f4efe83e-01fa-407c-8a8d-6a727d8e92df" width="220" alt="screenshot_4"/>
+  <img src="https://github.com/user-attachments/assets/3d758209-922e-41a6-9e49-9d35e6c4685f" width="220" alt="screenshot_4"/>
 </div>
 
 <br/>
@@ -31,14 +31,14 @@ KrypTx is a modern Android application built to display cryptocurrency data.
 ### App Previews (Landscape - Tablet)
 *Showcasing the Adaptive UI layout for larger screens.*
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0ea5482f-a308-4ade-9ad7-ea63e5f46b3c" width="400" alt="screenshot_5"/>
+  <img src="https://github.com/user-attachments/assets/7b6a0d92-4cc1-4005-8e2c-6e79ffa1db02" width="400" alt="screenshot_5"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/d5e24c47-161a-4c5c-95c3-5813a9305708" width="400" alt="screenshot_6"/>
+  <img src="https://github.com/user-attachments/assets/1ca31e89-db06-4633-871a-aa981574fbb9" width="400" alt="screenshot_6"/>
 </div>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/195d002f-6afb-4715-a74f-b8c33c5379a0" width="400" alt="screenshot_7"/>
+  <img src="https://github.com/user-attachments/assets/0bed9e6d-ec81-4f30-bfa4-f1b45be82b6a" width="400" alt="screenshot_7"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/9e26f8e4-4beb-42e4-b930-02a73250eb16" width="400" alt="screenshot_8"/>
+  <img src="https://github.com/user-attachments/assets/6018b2c4-683e-4fc2-b1ed-a85871bd1a7b" width="400" alt="screenshot_8"/>
 </div>
 
 ### API Key Setup Instructions
